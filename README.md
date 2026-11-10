@@ -1,5 +1,15 @@
 # Sistem Informasi Perpustakaan Berbasis Web Menggunakan Laravel — Metode Simple Additive Weighting (SAW)
 
+## Kelompok 3
+
+| No | Nama Anggota | NPM |
+|----|--------------|-----|
+| 1  | Misbahun nura | 24105111086 |
+| 2  | hayatun Nufus | 24105111070 |
+| 3  | Nelly Agustiani  | 24105111119 |
+
+---
+
 Project tugas: aplikasi perpustakaan berbasis **Laravel 12** dengan UI **Bootstrap 5**. Halaman CRUD utamanya adalah **Kelola Data Buku**, terhubung ke **Model `Book`** dengan struktur tabel dari **migration**. Selain itu ada fitur rekomendasi buku memakai metode **SAW (Simple Additive Weighting)**.
 
 ## Sesuai Ketentuan Tugas
